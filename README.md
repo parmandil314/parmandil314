@@ -12,4 +12,4 @@ Badly.
 
 Then why do I have a GitHub account?
 
-Spite. I use it to post all my bad code online in the hopes that good coders will come across it and die of anaphylaxis.
+Spite. I use it to post all my code online in the hopes that good coders will come across it and die of anaphylaxis.
